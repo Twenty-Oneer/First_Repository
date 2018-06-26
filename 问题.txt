@@ -1,0 +1,4 @@
+1、DoSting（）：参数传递lua中的函数调用？
+2、DoString（）：参数传递不是以.txt文件怎么加载出来？
+3、DoString（）：加载的为什么不是Resources文件夹下的lua文件？
+4、写框架那些东西需要用lua语言，那些需要C#语言？（面试）
